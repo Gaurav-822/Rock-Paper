@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rock Paper</string>
+    <string name="paper">PAPER</string>
+    <string name="scis">SCISSORS</string>
+    <string name="rock">ROCK</string>
+    <string name="start">START</string>
+    <string name="reset">RESET</string>
+    <string name="leaderBoard">LEADER BOARD</string>
+    <string name="win">SCORE: 0</string>
+</resources>
